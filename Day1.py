@@ -1,5 +1,5 @@
 '''
-Advent Of Code 2024! Day 1
+Advent Of Code 2024 (https://www.adventofcode.com)! Day 1
 Shout out to my friend Eric Wastl (github.com/topaz)! So proud of how far you've taken Advent of Code and the excitement this
 brings all of us!
 '''
